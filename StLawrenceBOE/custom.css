@@ -1,0 +1,48 @@
+body{
+  background : url(https://upload.wikimedia.org/wikipedia/commons/3/3c/Bog_River_Flow_from_Low%27s_Ridge%2C_St_Lawrence_County%2C_NY.jpg); background-size: 100% ;
+  font-family: "Segoen UI", sans-serif;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+
+}
+
+header {
+  background-color: #00508E;
+  text-align: center;
+  padding-top: 0.25%;
+  padding-bottom: 1.5%;
+}
+main {
+  width: 100%;
+  padding: 20%;
+  background-color: #A3BCEB;
+  float: left;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+nav {
+  width: 100%;
+  margin-right: 0.5%;
+  float: left;
+}
+
+body img{
+  width:1152px;
+  height:300px;
+
+}
+
+nav ul{
+  list-style: none;
+  padding: 0;
+}
+
+nav li{
+  padding: 5%;
+  border:1px solid #e9ecef;
+}
